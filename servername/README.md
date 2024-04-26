@@ -26,7 +26,7 @@ package main
 
 import (
 	"net/http"
-	"github.com/yourusername/servername"
+	"github.com/ugurkorkmaz/servername"
 )
 
 func main() {
